@@ -25,3 +25,7 @@ Auto-restart service automation with shell script for nginx or php-fpm applicati
 Automation using Terraform to create ElasticSearch or Opensearch inside AWS Opensearch service with SAML authentication
 
 [AWS-Opensearch-ElasticSearch-SAML](https://github.com/frovai/opensearch-with-saml-authentication)
+
+Docker image with shell script automation and DaemonSet to clean Unused Docker Images inside Kubernetes 
+
+[DaemonSet-Cleanup-Docker-Images](https://github.com/frovai/Daemonset-CleanUp-Docker-Images)
