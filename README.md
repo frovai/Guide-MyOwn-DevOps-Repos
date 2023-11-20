@@ -16,4 +16,4 @@
 
 [DaemonSet-Cleanup-Docker-Images](https://github.com/frovai/Daemonset-CleanUp-Docker-Images) - Docker image with shell script automation and DaemonSet to clean Unused Docker Images inside Kubernetes 
 
-
+[Auto-Registration-ZabbixURLs](https://github.com/frovai/Auto-Registration-ZabbixURLs) - Repository with Ansible automation to install Zabbix Server, CI/CD with Github Actions to auto-registrate or delete WebChecks inside Zabbix Server based on Cloudflare DNS registries, using the Zabbix API for it.
